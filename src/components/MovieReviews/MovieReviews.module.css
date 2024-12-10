@@ -1,0 +1,11 @@
+.go_back {
+    padding: 10px;
+    display: block;
+    width: 100px;
+    text-align: center;
+}
+
+.list {
+    list-style: none;
+    text-align: left;
+}

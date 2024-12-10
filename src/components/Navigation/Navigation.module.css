@@ -1,0 +1,10 @@
+.nav {
+    padding: 15px 30px;
+    display: flex;
+    gap: 20px;
+    box-shadow: rgba(97, 97, 97, 0.75) 0px 0px 10px 4px;
+    font-size: 20px;
+    font-weight: 700;
+    text-decoration: none;
+
+}

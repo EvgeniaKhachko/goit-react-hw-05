@@ -1,0 +1,20 @@
+.go_back {
+    padding: 10px;
+    display: block;
+    width: 100px;
+    text-align: center;
+}
+
+.list {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: center;
+}
+
+.list li p {
+    font-weight: 700;
+    margin: 5px;
+}

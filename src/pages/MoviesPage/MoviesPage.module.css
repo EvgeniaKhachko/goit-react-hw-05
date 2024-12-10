@@ -1,0 +1,12 @@
+.searchBar {
+    display: flex;
+    gap: 15px;
+}
+
+
+.input {
+    margin: 12px;
+    width: 424px;
+    height: 34px;
+    text-align: center;
+}

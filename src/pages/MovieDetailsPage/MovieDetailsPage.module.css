@@ -1,0 +1,55 @@
+.go_back {
+    padding: 10px;
+    display: block;
+    width: 100px;
+    text-align: center;
+}
+
+.container {
+    display: flex;
+    gap: 30px;
+    border-bottom: 1px solid rgb(114, 114, 114);
+    padding-bottom: 20px;
+}
+
+.nav {
+    display: flex;
+    text-decoration: none;
+    list-style: none;
+    margin-top: 15px;
+    padding-left: 20px;
+    align-items: start;
+    flex-direction: column;
+}
+
+.title {
+    text-align: start;
+}
+
+.genres {
+    list-style: none;
+}
+
+.genres li p {
+    margin: 0;
+}
+
+.fcontent {
+    text-align: start;
+}
+
+.gen {
+    margin-bottom: 5px;
+}
+
+.text {
+    margin-bottom: 0;
+}
+
+.descrHeadline {
+    font-weight: 700;
+}
+
+.item {
+    text-decoration: underline;
+}
